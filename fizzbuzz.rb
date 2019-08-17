@@ -1,3 +1,4 @@
+# Fizzbuzz game for pairing practice
 (1..20).each do |num|
   if num % 5 == 0 && num % 3 == 0
     puts  "#{num} --> FizzBuzz"
